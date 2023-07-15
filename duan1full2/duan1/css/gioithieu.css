@@ -1,0 +1,100 @@
+/* Code form gioi thieu */
+
+.box-content {
+    width: 1200px;
+    height: 360px;
+    margin-top: 20px;
+    margin-bottom: 150px;
+    margin-left: 70px;
+    border: 1px solid chocolate;
+    background-color: white;
+}
+
+.content {
+    padding: 30px;
+}
+
+.content1 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+/* Code banner */
+.quangcao img {
+    width: 100%;
+}
+
+/* Code sản phẩm*/
+.tra {
+    padding: 70px;
+}
+.heading {
+    font-weight: 600;
+    font-size: 25px;
+    margin: 50px 0px 0px 70px;
+}
+
+#tra ul.sanpham {
+    padding: 70px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#tra ul.sanpham li {
+    margin-top: 30px;
+    flex-basis: 22%;
+}
+
+ul.sanpham img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+ul .product-name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+
+ul .product-name:hover {
+    color: chocolate;
+}
+.giasanpham {
+    margin-top: 10px;
+    color: gray;
+}
+
+/* Code Footer */
+table {
+    padding: 50px;
+    width: 100%;
+    height: 280px;
+    background-color: #FFD24C;
+    border-spacing: 130px 5px;
+}
+
+
+tr {
+    color: #394BA0;
+}
+
+.hd {
+    font-weight: 600;
+}
+
+td {
+    padding: 10px;
+}
+
+tr img {
+    width: 25px;
+}
+
+.maps {
+    float: right;
+}

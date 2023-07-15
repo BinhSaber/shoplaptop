@@ -1,0 +1,128 @@
+.thanhtieude {
+    margin: 30px 0px 30px;
+}
+
+.thanhtieude p>a{
+    color: chocolate;
+    text-decoration: none;
+}
+
+.sanpham {
+    margin: 0px;
+    border: 1px;
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.trai {
+    float: left;
+}
+
+.trai img {
+    width: 400px;
+}
+
+.phai {
+    float: left;
+    margin-left: 50px;
+}
+
+.phai p {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.gia {
+    color: chocolate;
+    font-size: 35px;
+}
+
+.giamgia {
+    color: gray;
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 25px;
+    margin: 50px 0px 0px 70px;
+}
+
+
+ul.sanpham img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+ul .product-name {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    font-weight: 600;
+    color: black;
+    text-decoration: none;
+}
+
+ul .product-name:hover {
+    color: chocolate;
+}
+.giasanpham {
+    font-weight: 600;
+    font-size: 20px;
+    color: chocolate;
+}
+
+
+
+
+/* Code button */
+
+.to {
+    font-size: 20px;
+    width: 200%;
+    height: 50px;
+    color: white;
+    background-color: #FF8C00;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+
+#to {
+    margin-top: 100px;
+    width: 600px;
+    height: 45px;
+    background-color: #f52a2a;
+    color: white;
+    font-size: 18px;
+    border: none;
+}
+#to:hover {
+    background-color: #f74a4a;
+    color: white;
+    font-size: 18px;
+    border: none;
+}
+#nho {
+    margin: 10px 0px 10px 0px;
+    width: 298px;
+    height: 45px;
+    background-color: rgb(15, 9, 90);
+    color: white;
+    font-size: 18px;
+    border: none;
+}
+
+    /* .container {
+        margin-top: 280px;
+    } */
+
+/* Code Bình Luận */
+
+.form-binhluan {
+    margin-top: 0;
+}
+.binhluan {
+    margin-top: 0;
+}
